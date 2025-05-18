@@ -1,4 +1,4 @@
 # Kuntalasmi-demo
 This is my first GIT REPOSITORY.
 <br>
-Author - ASMi 
+Author - ASMi KUNTAL
